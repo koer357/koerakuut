@@ -1,3 +1,3 @@
 # koerakuut
-Õppe eesmäärgil loodud
-Katuse teeme kivist.
+Õppe eesmäärgil loodud3
+Katuse teeme kivist.3
